@@ -1,29 +1,28 @@
 
 
 # AnimeFlix - An Anime Library
+Animeflix is a web application that parodies the Netflix frontend, focusing exclusively on anime content. With Animeflix, users can browse through the extensive Kitsu anime catalog, search for specific titles, and access various details about each anime, such as a brief description. Additionally, the application provides a list of all episodes registered in the Kitsu API and allows users to watch trailers for their favorite anime shows.
 
-Animeflix is an web application parodying the Netflix frontend, but with animes only, solely made to practice how to build a responsive layout with HTML, css and JavaScript in React as well as how to read data from a third party API. It works like a catalogue, consuming real anime data from the [Kitsu API](https://kitsu.docs.apiary.io/), allowing users to search through Kitsu catalogue, list various animes, read a brief description about each of them, list all episodes registered in the API and watch trailers. 
-
-## Demo
-
-<p align="center">
-  <img src='https://user-images.githubusercontent.com/25598040/98027499-89b82980-1deb-11eb-9818-98ba7df434cc.gif'>
-</p>
+Features
+- Anime Catalog: Browse through a vast collection of anime titles available on the Kitsu API.
+- Search Functionality: Find specific anime shows by searching for their titles or keywords.
+- Anime Details: Access detailed information about each anime, including a brief description.
+- Episode Listing: View a comprehensive list of all episodes associated with an anime.
+- Trailer Playback: Watch trailers for various anime shows.
 
 ## Made With
-
-- [React](https://reactjs.org/)
-- [Axios](https://github.com/axios/axios)
-- [React Router](https://reactrouter.com/)
-- [Styled Components](https://styled-components.com/)
-- [Material UI/icons](https://material-ui.com/pt/)
-- [Kitsu (API)](https://kitsu.docs.apiary.io/)
+- React
+- React Router
+- Axios
+- Material UI
+- Kitsu (API)
 
 ## Installation
-
-After cloning the repository, open your terminal and run:
-
 ```
 npm install
 npm start
 ```
+
+## Demo
+
+
